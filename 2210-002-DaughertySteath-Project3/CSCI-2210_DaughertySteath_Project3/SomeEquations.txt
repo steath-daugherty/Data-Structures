@@ -1,0 +1,5 @@
+﻿Alpha = Beta + Gamma * Delta
+Beta = Gamma * Delta + Nu
+120 = 1 * 2 * 3 * 4 * 5
+A = ((((A+B)-C)*D)/(E+1))
+A = ((((A+B)-C)*D)/(E+1)

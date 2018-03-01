@@ -1,0 +1,11 @@
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\bin\Debug\CSCI-2210_DaughertySteath_Project3.exe.config
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\bin\Debug\CSCI-2210_DaughertySteath_Project3.exe
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\bin\Debug\CSCI-2210_DaughertySteath_Project3.pdb
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\CSCI_2210_DaughertySteath_Project3.AboutBox1.resources
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\CSCI_2210_DaughertySteath_Project3.InfixToPostfixForm.resources
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\CSCI_2210_DaughertySteath_Project3.Project3_SplashScreen.resources
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\CSCI_2210_DaughertySteath_Project3.Properties.Resources.resources
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\2210-002-DaughertySteath-Project3.csproj.GenerateResource.Cache
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\CSCI-2210_DaughertySteath_Project3.exe
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\CSCI-2210_DaughertySteath_Project3.pdb
+R:\2210\Projects\Project 3 - Infix To Postfix\2210-002-DaughertySteath-Project3\CSCI-2210_DaughertySteath_Project3\obj\Debug\2210-002-DaughertySteath-Project3.csprojResolveAssemblyReference.cache
