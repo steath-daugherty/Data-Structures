@@ -1,0 +1,6 @@
+R:\2210\Projects\Project 4 - Registration Simulator\2210-002-DaughertySteath-Project4\2210-002-DaughertySteath-Project4\bin\Debug\2210-002-DaughertySteath-Project4.exe.config
+R:\2210\Projects\Project 4 - Registration Simulator\2210-002-DaughertySteath-Project4\2210-002-DaughertySteath-Project4\bin\Debug\2210-002-DaughertySteath-Project4.exe
+R:\2210\Projects\Project 4 - Registration Simulator\2210-002-DaughertySteath-Project4\2210-002-DaughertySteath-Project4\bin\Debug\2210-002-DaughertySteath-Project4.pdb
+R:\2210\Projects\Project 4 - Registration Simulator\2210-002-DaughertySteath-Project4\2210-002-DaughertySteath-Project4\obj\Debug\2210-002-DaughertySteath-Project4.csprojResolveAssemblyReference.cache
+R:\2210\Projects\Project 4 - Registration Simulator\2210-002-DaughertySteath-Project4\2210-002-DaughertySteath-Project4\obj\Debug\2210-002-DaughertySteath-Project4.exe
+R:\2210\Projects\Project 4 - Registration Simulator\2210-002-DaughertySteath-Project4\2210-002-DaughertySteath-Project4\obj\Debug\2210-002-DaughertySteath-Project4.pdb
